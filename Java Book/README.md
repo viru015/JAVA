@@ -1,7 +1,24 @@
-# My Java Book 📖
+# My Java Books 📚
 
-This folder contains my personal Java book and learning material.
+This folder contains the Java books and learning material I have created as part of my programming journey.
 
-It includes notes, explanations, examples, and important Java concepts collected and created during my learning journey.
+## 📖 Contents
 
-The content will continue to grow as I learn more about Java.
+The books cover Java programming concepts, explanations, examples, and notes created while learning and exploring Java.
+
+## 📚 Available Versions
+
+- **Latest Version** — The most recent and updated version of my Java book.
+- **Older Versions** — Previous versions are stored for reference and to track the development of the book over time.
+
+## 📂 Folder Structure
+
+```text
+Java Book/
+├── README.md
+├── Latest Version/
+│   └── Java Programming Book.pdf
+└── Archive/
+    ├── Java Book v1.pdf
+    ├── Java Book v2.pdf
+    └── Java Book v3.pdf
